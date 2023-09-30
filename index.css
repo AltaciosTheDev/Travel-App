@@ -11,7 +11,7 @@ body{
 #container{
     display: flex;
     flex-direction: column;
-    width: 400px;
+    width: 350px;
     margin: 30px auto;
     border: 4px solid #755e86;
     padding: 15px;
